@@ -1,0 +1,74 @@
+# .NET
+*.dll
+*.exe
+*.pdb
+*.db
+*.log
+*.user
+*.lock
+*.cache
+*.config
+*.csproj.user
+*.suo
+*.sln.docstates
+
+# Build directories
+bin/
+obj/
+
+# User-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+# Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework
+Migrations/
+
+# Visual Studio Code
+.vscode/
+.vs/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.history/
+
+# Local History for Visual Studio
+.localhistory/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Node.js modules
+F1Drivers/F1Drivers/src/Vue/node_modules/
+F1Drivers/F1Drivers/src/Vue/frontend/node_modules/
